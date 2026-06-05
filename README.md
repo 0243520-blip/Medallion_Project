@@ -1,4 +1,4 @@
-[5:40 PM, 6/5/2026] Andy Alcalá ✨: ## 1. Overview
+## 1. Overview
 Este proyecto implementa un pipeline de datos tipo Medallion para procesar archivos Parquet de viajes de taxis en Nueva York (2025).  
 El flujo sigue la arquitectura Bronze → Silver → Gold:
 
